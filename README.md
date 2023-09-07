@@ -15,4 +15,4 @@
 
 <h2>Etapa 3</h2>
 <p>Ejemplo práctico que utiliza las funciones descritas previamente; el archivo "sqlite_menu.py" es una interfaz de usuario que permite crear bases de datos, crear tablas, agregar, editar, eliminar y consultar registros de forma sencilla.</p>
-<h3>Felicitaciones, ya puedes realizar la gestión de tu bases de datos.</h3>
+<h3>Felicitaciones, ya puedes realizar la gestión de tus bases de datos.</h3>
